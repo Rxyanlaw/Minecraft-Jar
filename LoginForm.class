@@ -46,7 +46,7 @@ public class LoginForm extends Panel {
    private Image bgImage;
    private TextField userName = new TextField(20);
    private Checkbox forceUpdateBox = new Checkbox("Force Update");
-   private Button launchButton = new Button("Enter Game");
+   private Button launchButton = new Button("Enter Minecraft for Lenove and HP by Rayyan Kadar");
    private Label errorLabel = new Label("", 1);
    private Label creditsVersion = new Label("v12.2");
    private Button openManager = new Button("Backup Manager");
