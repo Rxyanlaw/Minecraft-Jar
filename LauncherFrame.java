@@ -19,8 +19,8 @@ public class LauncherFrame extends Frame {
    public boolean forceUpdate = false;
 
    public LauncherFrame() {
-      super("Minecraft Launcher (by AnjoCaido)");
-      System.out.println("Hello!");
+      super("Minecraft Launcher for Lenovo and HP (by Rayyan Kadar");
+      System.out.println("Hello! Fellas'");
       this.setBackground(Color.BLACK);
       this.loginForm = new LoginForm(this);
       this.setLayout(new BorderLayout());
