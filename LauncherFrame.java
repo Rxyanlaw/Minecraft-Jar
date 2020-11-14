@@ -96,5 +96,8 @@ public class LauncherFrame extends Frame {
    public static void main(String[] args) {
       LauncherFrame launcherFrame = new LauncherFrame();
       launcherFrame.setVisible(true);
-   }
-}
+  launcher void public jar;
+     strint(userName);
+     isOnlinePlayEnabled = (booleanResult);
+     local convert booleanResult to (getBooleanResult);
+     Booleanresult = ("Online play is" ..booleanResult "!");
